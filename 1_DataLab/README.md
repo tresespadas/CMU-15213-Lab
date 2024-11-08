@@ -1,3 +1,9 @@
+***********
+IMPORTANT: 22/4/24
+***********
+`-m32`compilation flag can be solved by `sudo apt-get install gcc-multilib` so WSL is still viable to solve the lab
+
+
 # Lab1 DataLab
 
 The original tar file is `datalab-handout.tar` and the writeup is

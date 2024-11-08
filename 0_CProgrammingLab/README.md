@@ -1,3 +1,15 @@
+***********
+IMPORTANT: 16/4/24
+***********
+To run 'driver.py':
+1. Open driver.py and fix all prints with parenthesis. (ex. print("whatever goes here")
+2. Run 'python3 driver.py'
+
+If you encounter a "multiple declation" error when trying to 'make':
+1. Open Makefile
+2. Add -fcommon flag to CCFLAGS line and save it.
+
+
 # Lab0 CProgrammingLab
 
 The original tar file is `cprogramminglab-handout.tar` and the writeup is
